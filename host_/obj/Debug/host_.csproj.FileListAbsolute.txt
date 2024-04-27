@@ -1,0 +1,11 @@
+C:\Users\mcarl\source\repos\host_\bin\Debug\host_.exe.config
+C:\Users\mcarl\source\repos\host_\bin\Debug\host_.exe
+C:\Users\mcarl\source\repos\host_\bin\Debug\host_.pdb
+C:\Users\mcarl\source\repos\host_\bin\Debug\biblioteca.dll
+C:\Users\mcarl\source\repos\host_\bin\Debug\biblioteca.pdb
+C:\Users\mcarl\source\repos\host_\bin\Debug\biblioteca.dll.config
+C:\Users\mcarl\source\repos\host_\obj\Debug\host_.csproj.AssemblyReference.cache
+C:\Users\mcarl\source\repos\host_\obj\Debug\host_.csproj.CoreCompileInputs.cache
+C:\Users\mcarl\source\repos\host_\obj\Debug\host_.csproj.Up2Date
+C:\Users\mcarl\source\repos\host_\obj\Debug\host_.exe
+C:\Users\mcarl\source\repos\host_\obj\Debug\host_.pdb

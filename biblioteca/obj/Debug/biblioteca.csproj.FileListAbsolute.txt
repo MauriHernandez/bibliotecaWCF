@@ -1,0 +1,7 @@
+C:\Users\mcarl\source\repos\biblioteca\bin\Debug\biblioteca.dll.config
+C:\Users\mcarl\source\repos\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\mcarl\source\repos\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\mcarl\source\repos\biblioteca\obj\Debug\biblioteca.csproj.AssemblyReference.cache
+C:\Users\mcarl\source\repos\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\mcarl\source\repos\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\mcarl\source\repos\biblioteca\obj\Debug\biblioteca.pdb
